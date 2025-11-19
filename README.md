@@ -34,7 +34,3 @@ Mỗi bài báo có thể thuộc nhiều lĩnh vực cùng lúc, do đó đây 
 - Thư viện đánh giá: `scikit-learn`
 - Môi trường thực hiện: **Google Colab / Jupyter Notebook**
 
-## Cách sử dụng
-1. Clone repository:
-```bash
-git clone <repo_url>
